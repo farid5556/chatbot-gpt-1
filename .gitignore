@@ -1,0 +1,39 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environment folder
+venv/
+env/
+
+# Ignore environment variables file
+.env
+
+# Ignore Jupyter Notebook checkpoints (kalau pakai Jupyter)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and output files
+*.log
+*.out
+*.tmp
+
+# VSCode folder
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
+
+# Ignore model output or saved results
+*.pkl
+*.h5
+*.joblib
