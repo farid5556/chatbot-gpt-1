@@ -1,0 +1,5 @@
+weaviate-client
+langchain
+transformers
+torch
+python-dotenv
