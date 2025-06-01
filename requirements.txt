@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 weaviate-client
 langchain
 transformers
