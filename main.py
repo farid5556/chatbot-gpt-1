@@ -16,3 +16,5 @@ while True:
     # Dapatkan jawaban dari model T5
     answer = generate_answer(context, question)
     print(f"💬 Jawaban: {answer}\n")
+
+# http://127.0.0.1:8000/ask

@@ -16,4 +16,3 @@ async def ask_question(question: Question):
     answer = generate_answer(context, question.query)
     return {"answer": answer}
 
-# http://127.0.0.1:8000/ask
